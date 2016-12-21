@@ -42,3 +42,4 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Lady Problems Hackathon](https://www.eventbrite.com/e/lady-problems-hackathon-miami-tickets-28517811542) | Miami, FL | 12.10 - 12.11 |
 | [Moto Mods™ Hackathon](http://modthefuture.com/) | New York, NY | 12.10 - 12.11 |
 | [Porticode](http://porticode.io/) | London, UK | 12.10 - 12.11 |
+| [Hack the Holiday 2](https://hacktheholidays.io/) | Peterborough, UK | 12.17 - 12.18 |

@@ -7,10 +7,6 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 
 Inspired by the one made by [japacible](https://github.com/japacible/Hackathon-Calendar) that is no longer maintained, I decided to create a separate one.
 
-| Hackathon                                                | Location        | Date (2016)            |
-| -------------------------------------------------------------- |-------------  | :---------------------:|
-| [Hack the Holiday 2](https://hacktheholidays.io/) | Peterborough, UK | 12.17 - 12.18 |
-
 | Hackathon                                                | Location        | Date (2017)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [Hack Arizona](http://hackarizona.org/) | Tucson, AZ | 1.13 - 1.15 |
