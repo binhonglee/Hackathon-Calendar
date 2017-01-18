@@ -43,3 +43,15 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Moto Mods™ Hackathon](http://modthefuture.com/) | New York, NY | 12.10 - 12.11 |
 | [Porticode](http://porticode.io/) | London, UK | 12.10 - 12.11 |
 | [Hack the Holiday 2](https://hacktheholidays.io/) | Peterborough, UK | 12.17 - 12.18 |
+
+| Hackathon                                                | Location        | Date (2017)            |
+| -------------------------------------------------------------- |-------------  | :---------------------:|
+| [Hack the Valley](https://www.hackvalley.com) | Toronto ON | 1.7 - 1.8 |
+| [#NMCHackforHunger](http://xl8hackathon.s3.amazonaws.com/index.html) | New York, NY | 1.7 - 1.8 |
+| [Hack Arizona](http://hackarizona.org/) | Tucson, AZ | 1.13 - 1.15 |
+| [Hack@WPI](http://hack.wpi.edu/) | Worcester, MA | 1.13 - 1.15 |
+| [Def Hacks Seattle](http://defhacks.io/seattle.html) | Seattle, WA | 1.14 - 1.15 |
+| [HackFRee](http://hackfree.info/) | Manalapan, NJ | 1.14 - 1.15 |
+| [Lady Problems Hackathon](https://www.eventbrite.com/e/lady-problems-hackathon-barcelona-tickets-27597604177) | Barcelona, Spain | 1.14 - 1.15 |
+| [Ünçömmön Ha¢ks](http://uncommonhacks.com/) | Chicago, IL | 1.14 - 1.15 |
+| [Hack the Gap](http://www.hackthegap.com/hackathons/january-2017) | Minneapolis, MN | 1.14 - 1.15 |
