@@ -55,3 +55,13 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Lady Problems Hackathon](https://www.eventbrite.com/e/lady-problems-hackathon-barcelona-tickets-27597604177) | Barcelona, Spain | 1.14 - 1.15 |
 | [Ünçömmön Ha¢ks](http://uncommonhacks.com/) | Chicago, IL | 1.14 - 1.15 |
 | [Hack the Gap](http://www.hackthegap.com/hackathons/january-2017) | Minneapolis, MN | 1.14 - 1.15 |
+| [Valley Hackathon](http://valleyhackathon.com/events/ValleyHack2017) | Modesto, CA | 1.20 - 1.21 |
+| [SB Hacks](http://www.sbhacks.com/) | Santa Barbara, CA | 1.20 - 1.22 |
+| [Hack UCSC](http://www.hackucsc.com/) | Santa Cruz, CA | 1.20 - 1.22 |
+| [SpartaHacks](https://17.spartahack.com/) | East Lansing, MI | 1.20 - 1.22 |
+| [Swamphacks](http://2017.swamphacks.com/) | Gainesville, FL | 1.20 - 1.22 |
+| [UofTHacks](https://uofthacks.com/) | Toronto, ON | 1.20 - 1.22 |
+| [ConUHacks](https://conuhacks.io/) | Montreal, QC | 1.21 - 1.22 |
+| [HackDavis](https://hackdavis.io/) | Davis, CA | 1.21 - 1.22 |
+| [Lady Problems Hackathon](https://www.eventbrite.com/e/lady-problems-hackathon-sofia-tickets-27717639205) | Sofia, Bulgaria | 1.21 - 1.22 |
+| [Moto Mods™ Hackathon](http://modthefuture.com/) | San Francisco, CA | 1.21 - 1.22 |
