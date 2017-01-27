@@ -3,7 +3,7 @@ Upcoming Hackathons
 
 This repo tracks upcoming hackathons.
 
-To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request. Keep hackathons organized by start date and then alphabetically.
+To add a hackathon to this list, please submit an issue or fork this repo and submit a pull request. Keep hackathons organized by start date, end date and then alphabetically.
 
 Inspired by the one made by [japacible](https://github.com/japacible/Hackathon-Calendar) that is no longer maintained, I decided to create a separate one.
 
@@ -41,6 +41,7 @@ Inspired by the one made by [japacible](https://github.com/japacible/Hackathon-C
 | [Hack Central](http://hackcentral.ca/) | Winnipeg, MB | 2.17 - 2.19 |
 | [Hack@CEWIT](http://www.cewit.org/hack/) | Stony Brook, NY | 2.17 - 2.19 |
 | [HackNYU](http://hacknyu.org/) | New York, NY | 2.17 - 2.19 |
+| [HopHacks](https://hophacks.com) | Baltimore, MD | 2.17 - 2.19 |
 | [TreeHacks](http://www.treehacks.com) | Stanford, CA | 2.17 - 2.19 |
 | [HackYSU](http://hackysu.com) | Youngstown, OH | 2.17 - 2.19 |
 | [HackHERS](http://hackhers.us) | New Brunswick, NJ | 2.18 - 2.19 |
@@ -56,17 +57,21 @@ Inspired by the one made by [japacible](https://github.com/japacible/Hackathon-C
 | [CUCC Hack](http://cucomputerclub.com?page_id=66) | Coventry, UK | 3.3 - 3.4 |
 | [HackTech](http://hacktech.io/) | Pasadena, CA | 3.3 - 3.5 |
 | [HackUPC](https://hackupc.com) | Barcelona, Spain | 3.3 - 3.5 |
+| [LHacks](http://www.lhacks.com) | Waterloo, ON | 3.3 - 3.5 |
 | [CUHacking](http://cuhacking.com/) | Ottawa, ON | 3.4 - 3.5 |
+| [FloridaTechHacks](http://www.floridatechhacks.com/) | Melbourne, FL | 3.4 - 3.5 |
 | [Hack Potsdam](http://hackpotsdam.com/) | Potsdam, NY | 3.4 - 3.5 |
 | [HackUTD](http://hackutd.co) | Dallas, TX | 3.4 - 3.5 |
 | [SiliconHacks](http://siliconhacks.com/) | Fremont, CA | 3.4 - 3.5 |
 | [SWHacks](http://swhacks.org) | Tempe, AZ | 3.10 - 3.12 |
 | [HackUVic](http://hackuvic.com) | Victoria, BC | 3.11 - 3.12 |
 | [MenloHacks II](https://menlohacks.com) | Atherton, CA | 3.17 - 3.18 |
+| [RUHacks](http://www.ruhacks.com) | Toronto, ON | 3.17 - 3.19 |
 | [START Hack](http://starthack.ch) | St. Gallen, Switzerland | 3.17 - 3.19 |
 | [AIRVOLUTION](http://airvolution.airasia.com) | Selangor, Malaysia | 3.18 - 3.19 |
 | [nwHacks](https://www.nwhacks.io/) | Vancouver, BC | 3.18 - 3.19 |
 | [SFHacks](http://sfhacks.io) | San Francisco, CA | 3.18 - 3.19 |
+| [Hack In The North](http://www.hackinthenorth.com/) | Allahabad,India | 3.24 - 3.25 |
 | [CrimsonHacks](http://crimsonhacks.com/) | Tuscaloosa, AL | 3.25 - 3.26 |
 | [hackBCA](http://www.hackbca.com/) | Hackensack, NJ | 3.25 - 3.26 |
 | [HackTJ](https://hacktj.org/) | Alexandria, VA | 3.25 - 3.26 |
@@ -83,7 +88,4 @@ Inspired by the one made by [japacible](https://github.com/japacible/Hackathon-C
 | [CarlHacks](https://carlhacks.com) | Northfield, MN | 4.15 - 4.16 |
 | [EarthHack](http://hackdfw.com/earthack/) | Dallas, TX | 4.21 - 4.23 |
 | [Hackaburg](http://www.hackaburg.de) | Regensburg, Germany | 4.21 - 4.23 |
-
-| Hackathon (TBA)                                             | Location            |
-| -------------------------------------------------------------- |-------------  |
-| [RUHacks](http://www.ruhacks.com) | Toronto, ON |
+| [BostonHacks](http://bostonhacks.io) | Boston, MA | 4.29 - 4.30 |
