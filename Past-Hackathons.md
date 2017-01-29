@@ -65,3 +65,16 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [HackDavis](https://hackdavis.io/) | Davis, CA | 1.21 - 1.22 |
 | [Lady Problems Hackathon](https://www.eventbrite.com/e/lady-problems-hackathon-sofia-tickets-27717639205) | Sofia, Bulgaria | 1.21 - 1.22 |
 | [Moto Mods™ Hackathon](http://modthefuture.com/) | San Francisco, CA | 1.21 - 1.22 |
+| [#DEWAHacks](http://dewahacks.eventbrite.com) | Dubai, UAE | 1.27 - 1.28 |
+| [EXHACK](http://exeterentrepreneurs.com/exhack/) | Exeter, UK | 1.27 - 1.29 |
+| [Fashion/Tech Hackathon](http://www.fashiontechhackathon.com/) | Kent, OH | 1.27 - 1.29 |
+| [I_HACK](http://www.venturesity.com/challenge/id/387) | Mumbai, India | 1.27 - 1.29 |
+| [DeltaHacks](http://deltahacks.com/) | Hamilton, ON | 1.28 - 1.29 |
+| [Devil Hack](http://www.warrentownshiphs.portal.rschooltoday.com/page/3938) | Gurnee, IL | 1.28 - 1.29 |
+| [DurHack](http://durhack.com) | Durham, UK | 1.28 - 1.29 |
+| [GIF Hack](https://www.eventbrite.com/e/gif-hack-tickets-29466354660) | Palo Alto, CA | 1.28 - 1.29 |
+| [HackCambridge : Recurse](https://hackcambridge.com) | Cambridge, UK | 1.28 - 1.29 |
+| [HackED](http://hacked.compeclub.com/) | Edmonton, AB | 1.28 - 1.29 |
+| [Lady Problems Hackathon](https://www.eventbrite.com/e/lady-problems-hackathon-berlin-tickets-28517835614) | Berlin, Germany | 1.28 - 1.29 |
+| [MinneHack](http://minnehack.io/) | Minneapolis, MN | 1.28 - 1.29 |
+| [PixelHacks](http://tinyurl.com/pixelhacks-apply) | Santa Clara, CA | 1.28 - 1.29 |

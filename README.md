@@ -9,19 +9,6 @@ Inspired by the one made by [japacible](https://github.com/japacible/Hackathon-C
 
 | Hackathon                                                | Location        | Date (2017)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [#DEWAHacks](http://dewahacks.eventbrite.com) | Dubai, UAE | 1.27 - 1.28 |
-| [EXHACK](http://exeterentrepreneurs.com/exhack/) | Exeter, UK | 1.27 - 1.29 |
-| [Fashion/Tech Hackathon](http://www.fashiontechhackathon.com/) | Kent, OH | 1.27 - 1.29 |
-| [I_HACK](http://www.venturesity.com/challenge/id/387) | Mumbai, India | 1.27 - 1.29 |
-| [DeltaHacks](http://deltahacks.com/) | Hamilton, ON | 1.28 - 1.29 |
-| [Devil Hack](http://www.warrentownshiphs.portal.rschooltoday.com/page/3938) | Gurnee, IL | 1.28 - 1.29 |
-| [DurHack](http://durhack.com) | Durham, UK | 1.28 - 1.29 |
-| [GIF Hack](https://www.eventbrite.com/e/gif-hack-tickets-29466354660) | Palo Alto, CA | 1.28 - 1.29 |
-| [HackCambridge : Recurse](https://hackcambridge.com) | Cambridge, UK | 1.28 - 1.29 |
-| [HackED](http://hacked.compeclub.com/) | Edmonton, AB | 1.28 - 1.29 |
-| [Lady Problems Hackathon](https://www.eventbrite.com/e/lady-problems-hackathon-berlin-tickets-28517835614) | Berlin, Germany | 1.28 - 1.29 |
-| [MinneHack](http://minnehack.io/) | Minneapolis, MN | 1.28 - 1.29 |
-| [PixelHacks](http://tinyurl.com/pixelhacks-apply) | Santa Clara, CA | 1.28 - 1.29 |
 | [QHacks](http://qhacks.io/) | Kingston, CA | 2.3 - 2.5 |
 | [Hack@Brown](https://2017.hackatbrown.org) | Providence, RI | 2.4 - 2.5 |
 | [Hackatown](https://hackatown.io/) | Montreal, QC | 2.4 - 2.5 |
@@ -42,6 +29,7 @@ Inspired by the one made by [japacible](https://github.com/japacible/Hackathon-C
 | [Hack@CEWIT](http://www.cewit.org/hack/) | Stony Brook, NY | 2.17 - 2.19 |
 | [HackNYU](http://hacknyu.org/) | New York, NY | 2.17 - 2.19 |
 | [HopHacks](https://hophacks.com) | Baltimore, MD | 2.17 - 2.19 |
+| [JayHacks](http://jayhacks.io) | Lawrence, KS | 2.17 - 2.19 |
 | [TreeHacks](http://www.treehacks.com) | Stanford, CA | 2.17 - 2.19 |
 | [HackYSU](http://hackysu.com) | Youngstown, OH | 2.17 - 2.19 |
 | [HackHERS](http://hackhers.us) | New Brunswick, NJ | 2.18 - 2.19 |
