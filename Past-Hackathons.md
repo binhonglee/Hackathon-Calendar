@@ -78,3 +78,8 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Lady Problems Hackathon](https://www.eventbrite.com/e/lady-problems-hackathon-berlin-tickets-28517835614) | Berlin, Germany | 1.28 - 1.29 |
 | [MinneHack](http://minnehack.io/) | Minneapolis, MN | 1.28 - 1.29 |
 | [PixelHacks](http://tinyurl.com/pixelhacks-apply) | Santa Clara, CA | 1.28 - 1.29 |
+| [QHacks](http://qhacks.io/) | Kingston, CA | 2.3 - 2.5 |
+| [Hack@Brown](https://2017.hackatbrown.org) | Providence, RI | 2.4 - 2.5 |
+| [Hackatown](https://hackatown.io/) | Montreal, QC | 2.4 - 2.5 |
+| [Los Altos Hacks II](http://www.losaltoshacks.com/) | Redwood City, CA | 2.4 - 2.5 |
+| [Prof Hacks](http://profhacks.com/) | Glassboro, NJ | 2.4 - 2.5 |

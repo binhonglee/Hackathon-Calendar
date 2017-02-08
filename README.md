@@ -9,11 +9,6 @@ Inspired by the one made by [japacible](https://github.com/japacible/Hackathon-C
 
 | Hackathon                                                | Location        | Date (2017)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [QHacks](http://qhacks.io/) | Kingston, CA | 2.3 - 2.5 |
-| [Hack@Brown](https://2017.hackatbrown.org) | Providence, RI | 2.4 - 2.5 |
-| [Hackatown](https://hackatown.io/) | Montreal, QC | 2.4 - 2.5 |
-| [Los Altos Hacks II](http://www.losaltoshacks.com/) | Redwood City, CA | 2.4 - 2.5 |
-| [Prof Hacks](http://profhacks.com/) | Glassboro, NJ | 2.4 - 2.5 |
 | [Steelhacks](http://steelhacks.com) | Pittsburg, PA | 2.10 - 2.11 |
 | [HackMerced](https://hackmerced.com/) | Merced, CA | 2.10 - 2.12 |
 | [Norwalk Hackathon](https://www.eventbrite.com/e/norwalk-hackathon-tickets-29726778595?aff=es2) | Norwalk, CT | 2.10 - 2.12 |
