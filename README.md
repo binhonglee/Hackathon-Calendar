@@ -9,32 +9,14 @@ Inspired by the one made by [japacible](https://github.com/japacible/Hackathon-C
 
 | Hackathon                                                | Location        | Date (2017)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [Steelhacks](http://steelhacks.com) | Pittsburg, PA | 2.10 - 2.11 |
-| [HackMerced](https://hackmerced.com/) | Merced, CA | 2.10 - 2.12 |
-| [Norwalk Hackathon](https://www.eventbrite.com/e/norwalk-hackathon-tickets-29726778595?aff=es2) | Norwalk, CT | 2.10 - 2.12 |
-| [BrickHack](https://brickhack.io/) | Rochester, NY | 2.11 - 2.12 |
-| [Disrupt the District](http://www.disruptdc.io/) | Washington, DC | 2.11 - 2.12 |
-| [HackPoly](http://www.hackpoly.com/) | Pomona, CA | 2.11 - 2.12 |
-| [PearlHacks](http://pearlhacks.com) | Chapel Hill, NC | 2.11 - 2.12 |
-| [StirHack](http://succ.cs.stir.ac.uk/stirhack/) | Stirling, UK | 2.11 - 2.12 |
-| [StrathHack](https://hack.strathtech.co.uk) | Glasgow, UK | 2.11 - 2.12 |
-| [WHACK](http://wellesleyhacks.org) | Wellesley, MA | 2.11 - 2.12 |
-| [DandyHacks](http://www.dandyhacks.org/) | Rochester, NY | 2.17 - 2.19 |
-| [Hack Central](http://hackcentral.ca/) | Winnipeg, MB | 2.17 - 2.19 |
-| [Hack@CEWIT](http://www.cewit.org/hack/) | Stony Brook, NY | 2.17 - 2.19 |
-| [HackNYU](http://hacknyu.org/) | New York, NY | 2.17 - 2.19 |
-| [HopHacks](https://hophacks.com) | Baltimore, MD | 2.17 - 2.19 |
-| [JayHacks](http://jayhacks.io) | Lawrence, KS | 2.17 - 2.19 |
-| [TreeHacks](http://www.treehacks.com) | Stanford, CA | 2.17 - 2.19 |
-| [HackYSU](http://hackysu.com) | Youngstown, OH | 2.17 - 2.19 |
-| [HackHERS](http://hackhers.us) | New Brunswick, NJ | 2.18 - 2.19 |
-| [JHacks](http://jhacksumd.com) | College Park, MD | 2.18 - 2.19 |
-| [CalgaryHacks](http://calgaryhacks.com/) | Calgary, AB | 2.21 - 2.22 |
 | [DerbyHacks](http://derbyhacks.io/) | Louisville, KY | 2.24 - 2.26 |
 | [HackISU](http://hackisu.org) | Ames, IA | 2.24 - 2.26 |
+| [MangoHacks](https://mangohacks.com) Miami, FL | 2.24 - 2.26 |
 | [Buildathon](http://hackdfw.com/buildathon/) | Dallas, TX | 2.25 - 2.26 |
 | [Desert Hacks](http://www.deserthacks.org/) | Phoenix, AZ | 2.25 - 2.26 |
+| [Hack@Smith](http://hackatsmith.com/) | Northampton, MA | 2.25 - 2.26 |
 | [HackBU](http://hackbu.org/2017s/) | Binghamton, NY | 2.25 - 2.26 |
+| [HackTCNJ](http://www.hacktcnj.com/static/index.html) | Ewing, NJ | 2.25 - 2.26 |
 | [T9Hacks](http://www.t9hacks.org/) | Boulder, CO | 2.25 - 2.26 |
 | [WiCHacks](http://wic-hacks.rit.edu/) | Rochester, NY | 2.25 - 2.26 |
 | [CUCC Hack](http://cucomputerclub.com?page_id=66) | Coventry, UK | 3.3 - 3.4 |
@@ -55,6 +37,7 @@ Inspired by the one made by [japacible](https://github.com/japacible/Hackathon-C
 | [nwHacks](https://www.nwhacks.io/) | Vancouver, BC | 3.18 - 3.19 |
 | [SFHacks](http://sfhacks.io) | San Francisco, CA | 3.18 - 3.19 |
 | [Hack In The North](http://www.hackinthenorth.com/) | Allahabad,India | 3.24 - 3.25 |
+| [MHacks 9](https://mhacks.org) | Ann Arbor, MI | 3.24 - 3.25 |
 | [CrimsonHacks](http://crimsonhacks.com/) | Tuscaloosa, AL | 3.25 - 3.26 |
 | [hackBCA](http://www.hackbca.com/) | Hackensack, NJ | 3.25 - 3.26 |
 | [HackTJ](https://hacktj.org/) | Alexandria, VA | 3.25 - 3.26 |

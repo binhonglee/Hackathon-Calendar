@@ -83,3 +83,24 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Hackatown](https://hackatown.io/) | Montreal, QC | 2.4 - 2.5 |
 | [Los Altos Hacks II](http://www.losaltoshacks.com/) | Redwood City, CA | 2.4 - 2.5 |
 | [Prof Hacks](http://profhacks.com/) | Glassboro, NJ | 2.4 - 2.5 |
+| [Steelhacks](http://steelhacks.com) | Pittsburg, PA | 2.10 - 2.11 |
+| [HackMerced](https://hackmerced.com/) | Merced, CA | 2.10 - 2.12 |
+| [Norwalk Hackathon](https://www.eventbrite.com/e/norwalk-hackathon-tickets-29726778595?aff=es2) | Norwalk, CT | 2.10 - 2.12 |
+| [BrickHack](https://brickhack.io/) | Rochester, NY | 2.11 - 2.12 |
+| [Disrupt the District](http://www.disruptdc.io/) | Washington, DC | 2.11 - 2.12 |
+| [HackPoly](http://www.hackpoly.com/) | Pomona, CA | 2.11 - 2.12 |
+| [PearlHacks](http://pearlhacks.com) | Chapel Hill, NC | 2.11 - 2.12 |
+| [StirHack](http://succ.cs.stir.ac.uk/stirhack/) | Stirling, UK | 2.11 - 2.12 |
+| [StrathHack](https://hack.strathtech.co.uk) | Glasgow, UK | 2.11 - 2.12 |
+| [WHACK](http://wellesleyhacks.org) | Wellesley, MA | 2.11 - 2.12 |
+| [DandyHacks](http://www.dandyhacks.org/) | Rochester, NY | 2.17 - 2.19 |
+| [Hack Central](http://hackcentral.ca/) | Winnipeg, MB | 2.17 - 2.19 |
+| [Hack@CEWIT](http://www.cewit.org/hack/) | Stony Brook, NY | 2.17 - 2.19 |
+| [HackNYU](http://hacknyu.org/) | New York, NY | 2.17 - 2.19 |
+| [HopHacks](https://hophacks.com) | Baltimore, MD | 2.17 - 2.19 |
+| [JayHacks](http://jayhacks.io) | Lawrence, KS | 2.17 - 2.19 |
+| [TreeHacks](http://www.treehacks.com) | Stanford, CA | 2.17 - 2.19 |
+| [HackYSU](http://hackysu.com) | Youngstown, OH | 2.17 - 2.19 |
+| [HackHERS](http://hackhers.us) | New Brunswick, NJ | 2.18 - 2.19 |
+| [JHacks](http://jhacksumd.com) | College Park, MD | 2.18 - 2.19 |
+| [CalgaryHacks](http://calgaryhacks.com/) | Calgary, AB | 2.21 - 2.22 |
