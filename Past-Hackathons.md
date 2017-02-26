@@ -104,3 +104,13 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [HackHERS](http://hackhers.us) | New Brunswick, NJ | 2.18 - 2.19 |
 | [JHacks](http://jhacksumd.com) | College Park, MD | 2.18 - 2.19 |
 | [CalgaryHacks](http://calgaryhacks.com/) | Calgary, AB | 2.21 - 2.22 |
+| [DerbyHacks](http://derbyhacks.io/) | Louisville, KY | 2.24 - 2.26 |
+| [HackISU](http://hackisu.org) | Ames, IA | 2.24 - 2.26 |
+| [MangoHacks](https://mangohacks.com) Miami, FL | 2.24 - 2.26 |
+| [Buildathon](http://hackdfw.com/buildathon/) | Dallas, TX | 2.25 - 2.26 |
+| [Desert Hacks](http://www.deserthacks.org/) | Phoenix, AZ | 2.25 - 2.26 |
+| [Hack@Smith](http://hackatsmith.com/) | Northampton, MA | 2.25 - 2.26 |
+| [HackBU](http://hackbu.org/2017s/) | Binghamton, NY | 2.25 - 2.26 |
+| [HackTCNJ](http://www.hacktcnj.com/static/index.html) | Ewing, NJ | 2.25 - 2.26 |
+| [T9Hacks](http://www.t9hacks.org/) | Boulder, CO | 2.25 - 2.26 |
+| [WiCHacks](http://wic-hacks.rit.edu/) | Rochester, NY | 2.25 - 2.26 |

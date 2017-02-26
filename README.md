@@ -9,16 +9,6 @@ Inspired by the one made by [japacible](https://github.com/japacible/Hackathon-C
 
 | Hackathon                                                | Location        | Date (2017)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [DerbyHacks](http://derbyhacks.io/) | Louisville, KY | 2.24 - 2.26 |
-| [HackISU](http://hackisu.org) | Ames, IA | 2.24 - 2.26 |
-| [MangoHacks](https://mangohacks.com) Miami, FL | 2.24 - 2.26 |
-| [Buildathon](http://hackdfw.com/buildathon/) | Dallas, TX | 2.25 - 2.26 |
-| [Desert Hacks](http://www.deserthacks.org/) | Phoenix, AZ | 2.25 - 2.26 |
-| [Hack@Smith](http://hackatsmith.com/) | Northampton, MA | 2.25 - 2.26 |
-| [HackBU](http://hackbu.org/2017s/) | Binghamton, NY | 2.25 - 2.26 |
-| [HackTCNJ](http://www.hacktcnj.com/static/index.html) | Ewing, NJ | 2.25 - 2.26 |
-| [T9Hacks](http://www.t9hacks.org/) | Boulder, CO | 2.25 - 2.26 |
-| [WiCHacks](http://wic-hacks.rit.edu/) | Rochester, NY | 2.25 - 2.26 |
 | [CUCC Hack](http://cucomputerclub.com?page_id=66) | Coventry, UK | 3.3 - 3.4 |
 | [HackTech](http://hacktech.io/) | Pasadena, CA | 3.3 - 3.5 |
 | [HackUPC](https://hackupc.com) | Barcelona, Spain | 3.3 - 3.5 |
