@@ -9,22 +9,6 @@ Inspired by the one made by [japacible](https://github.com/japacible/Hackathon-C
 
 | Hackathon                                                | Location        | Date (2017)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [CUCC Hack](http://cucomputerclub.com?page_id=66) | Coventry, UK | 3.3 - 3.4 |
-| [HackTech](http://hacktech.io/) | Pasadena, CA | 3.3 - 3.5 |
-| [HackUPC](https://hackupc.com) | Barcelona, Spain | 3.3 - 3.5 |
-| [LHacks](http://www.lhacks.com) | Waterloo, ON | 3.3 - 3.5 |
-| [CUHacking](http://cuhacking.com/) | Ottawa, ON | 3.4 - 3.5 |
-| [FloridaTechHacks](http://www.floridatechhacks.com/) | Melbourne, FL | 3.4 - 3.5 |
-| [Hack Potsdam](http://hackpotsdam.com/) | Potsdam, NY | 3.4 - 3.5 |
-| [Hack Ridge](http://www.hackridge.io/) | Park, Ridge, IL | 3.4 - 3.5 |
-| [HackUTD](http://hackutd.co) | Dallas, TX | 3.4 - 3.5 |
-| [<Hack> Puebla](http://ing.pue.itesm.mx/hackpuebla/) | Puebla, MX | 3.10 - 3.11 |
-| [StudentHack V](http://www.studenthack.com/) | Manchester, UK | 3.10 - 3.12 |
-| [SWHacks](http://swhacks.org) | Tempe, AZ | 3.10 - 3.12 |
-| [BullHacks](http://bullhacks.io/) | Birmingham, UK | 3.11 - 3.12 |
-| [Guelph Hacks](http://guelphhack.socs.uoguelph.ca/) | Guelph, ON | 3.11 - 3.12 |
-| [HackBrookes](http://hackatbrookes.org/) | Oxford, UK | 3.11 - 3.12 |
-| [HackUVic](http://hackuvic.com) | Victoria, BC | 3.11 - 3.12 |
 | [MenloHacks II](https://menlohacks.com) | Atherton, CA | 3.17 - 3.18 |
 | [RUHacks](http://www.ruhacks.com) | Toronto, ON | 3.17 - 3.19 |
 | [START Hack](http://starthack.ch) | St. Gallen, Switzerland | 3.17 - 3.19 |
