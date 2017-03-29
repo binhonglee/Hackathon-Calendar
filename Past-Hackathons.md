@@ -130,3 +130,18 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [Guelph Hacks](http://guelphhack.socs.uoguelph.ca/) | Guelph, ON | 3.11 - 3.12 |
 | [HackBrookes](http://hackatbrookes.org/) | Oxford, UK | 3.11 - 3.12 |
 | [HackUVic](http://hackuvic.com) | Victoria, BC | 3.11 - 3.12 |
+| [MenloHacks II](https://menlohacks.com) | Atherton, CA | 3.17 - 3.18 |
+| [RUHacks](http://www.ruhacks.com) | Toronto, ON | 3.17 - 3.19 |
+| [START Hack](http://starthack.ch) | St. Gallen, Switzerland | 3.17 - 3.19 |
+| [AIRVOLUTION](http://airvolution.airasia.com) | Selangor, Malaysia | 3.18 - 3.19 |
+| [nwHacks](https://www.nwhacks.io/) | Vancouver, BC | 3.18 - 3.19 |
+| [SFHacks](http://sfhacks.io) | San Francisco, CA | 3.18 - 3.19 |
+| [Hack In The North](http://www.hackinthenorth.com/) | Allahabad,India | 3.24 - 3.25 |
+| [MHacks 9](https://mhacks.org) | Ann Arbor, MI | 3.24 - 3.25 |
+| [CrimsonHacks](http://crimsonhacks.com/) | Tuscaloosa, AL | 3.25 - 3.26 |
+| [hackBCA](http://www.hackbca.com/) | Hackensack, NJ | 3.25 - 3.26 |
+| [HackCity](http://www.hackcity.org/) | London, UK | 3.25 - 3.26 |
+| [HackTJ](https://hacktj.org/) | Alexandria, VA | 3.25 - 3.26 |
+| [HSHacks](http://www.hshacks.com/) | Fremont, CA | 3.25 - 3.26 |
+| [PolyHacks](https://polyhacks.com/) | Lakeland, FL | 3.25 - 3.26 |
+| [WiseHacks](http://wisehacks.swcenter.edu/) | Abingdon, VA | 3.25 - 3.26 |
