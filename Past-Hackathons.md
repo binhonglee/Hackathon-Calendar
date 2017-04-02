@@ -145,3 +145,13 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [HSHacks](http://www.hshacks.com/) | Fremont, CA | 3.25 - 3.26 |
 | [PolyHacks](https://polyhacks.com/) | Lakeland, FL | 3.25 - 3.26 |
 | [WiseHacks](http://wisehacks.swcenter.edu/) | Abingdon, VA | 3.25 - 3.26 |
+| [AUHack](https://auhack.org/) | Aarhus, Denmark | 3.31 - 4.2 |
+| [HackGSU](http://hackgsu.com/) | Atlanta, GA | 3.31 - 4.2 |
+| [HackPrinceton](https://hackprinceton.com) | Princeton, NJ | 3.31 - 4.2 |
+| [LA Hacks](https://lahacks.com) | Los Angeles, CA | 3.31 - 4.2 |
+| [TribeHacks](http://www.tribehacks.com/) | Williamsburg, VA | 3.31 - 4.2 |
+| [CodeRED PLUS](https://uhcode.red/) | Houston, TX | 4.1 - 4.2 |
+| [Hex](http://hackeindhoven.nl/) | Eindhoven, Netherlands | 4.1 - 4.2 |
+| [MasseyHacks III](https://masseyhacks.ca) | Windsor, OH | 4.1 - 4.2 |
+| [PolyHack](http://www.polyhackur.com/) | Monterrey, MX | 4.1 - 4.2 |
+| [sudo HackStetson II](http://www.polyhackur.com/) | DeLand, FL | 4.1 - 4.2 |
