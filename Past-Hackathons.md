@@ -155,3 +155,9 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [MasseyHacks III](https://masseyhacks.ca) | Windsor, OH | 4.1 - 4.2 |
 | [PolyHack](http://www.polyhackur.com/) | Monterrey, MX | 4.1 - 4.2 |
 | [sudo HackStetson II](http://www.polyhackur.com/) | DeLand, FL | 4.1 - 4.2 |
+| [BuildHer](http://buildher.io/) | Evanston, IL | 4.7 - 4.8 |
+| [Bitcamp](http://bitca.mp) | College Park, MD | 4.7 - 4.9 |
+| [Athena Hacks](http://athenahacks.com/) | Los Angeles, CA | 4.8 - 4.9 |
+| [HackCU III](https://2017.hackcu.org/) | Boulder, CO | 4.8 - 4.9 |
+| [HackNY](http://hackny.org/hackathon/) | New York, NY | 4.8 - 4.9 |
+| [RevolutionUC](https://revolutionuc.com) | Cincinnati, OH | 4.8 - 4.9 |
