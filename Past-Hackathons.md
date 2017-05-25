@@ -170,3 +170,6 @@ To add a hackathon to this list, please submit an issue or fork this repo and su
 | [CopenHacks](http://copenhacks.com/) | Copenhagen, Denmark | 4.22 - 4.23 |
 | [HackWesTX](http://www.hackwestx.tech/) | Lubbock, TX | 4.22 - 4.23 |
 | [LIHacks](http://lihacks.com/) | Westbury, NY | 4.22 - 4.23 |
+| [BostonHacks](http://bostonhacks.io) | Boston, MA | 4.29 - 4.30 |
+| [HackMed](http://hackmed.uk/) | Sheffield, UK | 4.29 - 4.30 |
+| [SiliconHacks](http://siliconhacks.com/) | Fremont, CA | 5.6 - 5.7 |
